@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+	<item android:state_enabled="false" android:state_checked="false" android:color="{2:2130903282}" android:alpha="{4:1052938076}" />
+	<item android:state_enabled="false" android:state_checked="true" android:color="{2:2130903297}" android:alpha="{4:1052938076}" />
+	<item android:state_checked="true" android:state_pressed="true" android:color="{2:2130903289}" />
+	<item android:state_checked="true" android:color="{2:2130903277}" />
+	<item android:state_pressed="true" android:color="{2:2130903284}" />
+	<item android:color="{2:2130903287}" />
+</selector>

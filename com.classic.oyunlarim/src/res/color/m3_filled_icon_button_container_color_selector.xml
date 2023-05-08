@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+	<item android:state_enabled="false" android:color="{2:2130903282}" android:alpha="{4:1039516303}" />
+	<item android:state_checkable="true" android:state_checked="false" android:color="{2:2130903299}" />
+	<item android:color="{2:2130903266}" />
+</selector>
